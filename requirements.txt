@@ -1,0 +1,6 @@
+spotapi
+yt-dlp
+mutagen
+requests
+mutagen
+requests
