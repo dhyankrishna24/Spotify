@@ -23,6 +23,11 @@ If you prefer, you can install directly:
 ```bash
 pip install spotapi pymongo redis websockets yt-dlp
 ```
+## License
+
+This project is licensed under the **GPL 3.0 License**. See [LICENSE](LICENSE) for details.
+
+Built on [SpotAPI](https://github.com/Aran404/SpotAPI), also licensed under GPL 3.0.
 
 ## Cookie-based login (recommended)
 SpotAPI supports loading a logged-in session from your browser cookies to avoid third-party CAPTCHA solvers.
