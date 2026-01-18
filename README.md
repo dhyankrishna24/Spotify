@@ -25,7 +25,7 @@ pip install spotapi pymongo redis websockets yt-dlp
 ```
 ## License
 
-This project is licensed under the **GPL 3.0 License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the **Apache 2.0**. See [LICENSE](LICENSE) for details.
 
 Built on [SpotAPI](https://github.com/Aran404/SpotAPI), also licensed under GPL 3.0.
 
